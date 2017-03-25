@@ -1,6 +1,10 @@
 IMG
 examples
+model.h5 copy
 driving_log.csv
 *.mp4
 .DS_STORE
 .ipynb_checkpoints
+Behavioral_Cloning-Copy1.ipynb
+Behavioral_Cloning-New-Copy2.ipynb
+Behavioral_Cloning-New.ipynb
